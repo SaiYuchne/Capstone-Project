@@ -17,4 +17,4 @@ The system makes use of the following frameworks, languages and tools:
 - Version Control: Github
 - Project Management: Jira and Microsoft Project
 
-Please note that only the backend part of the Seat Management subsystem and its relevant files is shown inside this repo.
+Please note that only the backend part of the Seat Management subsystem and its relevant files is shown inside this repo. The code shown is currently incomplete as the system is still under development.
